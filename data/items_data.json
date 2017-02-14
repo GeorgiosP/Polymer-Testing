@@ -1,0 +1,490 @@
+[{
+    "numOfPages": "13"
+}, {
+    "items": [{
+            "id": 11938,
+            "code": "LC42H163",
+            "title": "AOC LC42H163 LCD TV",
+            "teaser": "AOC LC42H163, 1066.8 mm (42 "), 400 cd / m, Full HD, Analog & Digital, NTSC M, ATSC ", "
+        trimmed " : false, "
+        url " : "
+        bsdemo\ / shop\ / televisions\ / aoc - lc42h163 - lcd - tv ", "
+        image " : "
+        store / 20151203508 / assets / items / thumbnails / LC42H163.jpg ", "
+        count " : "
+        1 ", "
+        store_featured " : "
+        " , "
+        cat_featured " : "
+        " , "
+        new_item " : "
+        " , "
+        on_sale " : "
+        " , "
+        select_button " : true, "
+        currency_sign " : "
+        $ ", "
+        itemStarRating " : "
+        " , "
+        labels " : { "
+        list_price " : "
+        List Price ", "
+        no_price " : "
+        Free ", "
+        you_save " : "
+        Save ", "
+        save_plus " : "
+        Discounted ", "
+        points " : "
+        Points Awarded ", "
+        callprice " : "
+        Call
+        for pricing ", "
+        quickinfo " : "
+        Quick Info " }, "
+        price " : { "
+        type " : "
+        normal ", "
+        list_price " : "
+        749.99 " ,"
+        save " : { "
+        percent " : "
+        13 ", "
+        value " : "
+        100.00 " } ,"
+        value " : { "
+        integer " : "
+        649 ", "
+        decimal " : "
+        99 " } } } , { "
+        id " : 12001, "
+        code " : "
+        5976 B008 ", "
+        title " : "
+        Canon LEGRIA HF R36 ", "
+        teaser " : "
+        LEGRIA HF R36, 7.62 cm(3.0 ") Touchscreen LCD, 3.28MP, 51x Advanced zoom, Full HD CMOS, Wi-Fi with ", "trimmed": true, "url": "bsdemo\/shop\/camcorders\/canon-legria-hf-r36", "image": "store/20151203508/assets/items/thumbnails/5976B008.jpg", "count": "2", "store_featured": "", "cat_featured": "", "new_item": "", "on_sale": "", "select_button": true, "currency_sign": "$", "itemStarRating": "", "labels": {
+                "list_price": "List Price",
+                "no_price": "Free",
+                "you_save": "Save",
+                "save_plus": "Discounted",
+                "points": "Points Awarded",
+                "callprice": "Call for pricing",
+                "quickinfo": "Quick Info"
+            }, "price": {
+                "type": "normal",
+                "list_price": "235.49",
+                "save": {
+                    "percent": "16",
+                    "value": "37.70"
+                },
+                "value": {
+                    "integer": "197",
+                    "decimal": "79"
+                }
+            }
+        }, {
+            "id": 12071,
+            "code": "KDL_26EX555BAEP",
+            "title": "Sony KDL-26EX555",
+            "teaser": "Sony KDL-26EX555, 660.4 mm (26 "), HD - Ready, 1366 x 768 pixels, Analog & Digital, DVB - C, DVB - S2, DVB ", "
+        trimmed " : true, "
+        url " : "
+        bsdemo\ / shop\ / televisions\ / sony - kdl - 26e x555 ", "
+        image " : "
+        store / 20151203508 / assets / items / thumbnails / KDL_26EX555BAEP.jpg ", "
+        count " : "
+        3 ", "
+        store_featured " : "
+        " , "
+        cat_featured " : "
+        " , "
+        new_item " : "
+        " , "
+        on_sale " : "
+        " , "
+        select_button " : true, "
+        currency_sign " : "
+        $ ", "
+        itemStarRating " : "
+        " , "
+        labels " : { "
+        list_price " : "
+        List Price ", "
+        no_price " : "
+        Free ", "
+        you_save " : "
+        Save ", "
+        save_plus " : "
+        Discounted ", "
+        points " : "
+        Points Awarded ", "
+        callprice " : "
+        Call
+        for pricing ", "
+        quickinfo " : "
+        Quick Info " }, "
+        price " : { "
+        type " : "
+        normal ", "
+        list_price " : "
+        299.99 " ,"
+        save " : { "
+        percent " : "
+        13 ", "
+        value " : "
+        40.00 " } ,"
+        value " : { "
+        integer " : "
+        259 ", "
+        decimal " : "
+        99 " } } } , { "
+        id " : 12057, "
+        code " : "
+        55 PFL5507H_12 ", "
+        title " : "
+        Philips 55 PFL5507H ", "
+        teaser " : "
+        139.7 cm(55 ") , 1920x1080, 400Hz, 16:9, HDMI, Component, Scart, USB, LAN, VGA, Silver", "trimmed": false, "url": "bsdemo\/shop\/televisions\/philips-55pfl5507h", "image": "store/20151203508/assets/items/thumbnails/55PFL5507H_12.jpg", "count": "4", "store_featured": "", "cat_featured": "", "new_item": "", "on_sale": "", "select_button": true, "currency_sign": "$", "itemStarRating": "", "labels": {
+                "list_price": "List Price",
+                "no_price": "Free",
+                "you_save": "Save",
+                "save_plus": "Discounted",
+                "points": "Points Awarded",
+                "callprice": "Call for pricing",
+                "quickinfo": "Quick Info"
+            }, "price": {
+                "type": "normal",
+                "list_price": "459.99",
+                "save": {
+                    "percent": "7",
+                    "value": "30.00"
+                },
+                "value": {
+                    "integer": "429",
+                    "decimal": "99"
+                }
+            }
+        }, {
+            "id": 12055,
+            "code": "32AV933G",
+            "title": "Toshiba 32AV933 LCD TV",
+            "teaser": "Toshiba 32AV933 LCD TV",
+            "trimmed": false,
+            "url": "bsdemo\/shop\/televisions\/toshiba-32av933-lcd-tv",
+            "image": "store/20151203508/assets/items/thumbnails/32AV933G.jpg",
+            "count": "5",
+            "store_featured": "",
+            "cat_featured": "",
+            "new_item": "",
+            "on_sale": "",
+            "select_button": true,
+            "currency_sign": "$",
+            "itemStarRating": "",
+            "labels": {
+                "list_price": "List Price",
+                "no_price": "Free",
+                "you_save": "Save",
+                "save_plus": "Discounted",
+                "points": "Points Awarded",
+                "callprice": "Call for pricing",
+                "quickinfo": "Quick Info"
+            },
+            "price": {
+                "type": "normal",
+                "list_price": "329.99",
+                "save": {
+                    "percent": "13",
+                    "value": "42.00"
+                },
+                "value": {
+                    "integer": "287",
+                    "decimal": "99"
+                }
+            }
+        }, {
+            "id": 12051,
+            "code": "L39B2180",
+            "title": "Haier L39B2180 LCD TV",
+            "teaser": "97.79 cm (38.5 "), 1920 x 1080, 16: 9, CR 15000: 1, 400 cd / m2, 8 ms, 3 x HDMI, 1 x Component, 1 x Compo ", "
+        trimmed " : true, "
+        url " : "
+        bsdemo\ / shop\ / televisions\ / haier - l39b2180 - lcd - tv ", "
+        image " : "
+        store / 20151203508 / assets / items / thumbnails / L39B2180.jpg ", "
+        count " : "
+        6 ", "
+        store_featured " : "
+        " , "
+        cat_featured " : "
+        " , "
+        new_item " : "
+        " , "
+        on_sale " : "
+        " , "
+        select_button " : true, "
+        currency_sign " : "
+        $ ", "
+        itemStarRating " : "
+        " , "
+        labels " : { "
+        list_price " : "
+        List Price ", "
+        no_price " : "
+        Free ", "
+        you_save " : "
+        Save ", "
+        save_plus " : "
+        Discounted ", "
+        points " : "
+        Points Awarded ", "
+        callprice " : "
+        Call
+        for pricing ", "
+        quickinfo " : "
+        Quick Info " }, "
+        price " : { "
+        type " : "
+        normal ", "
+        list_price " : "
+        289.99 " ,"
+        save " : { "
+        percent " : "
+        15 ", "
+        value " : "
+        44.00 " } ,"
+        value " : { "
+        integer " : "
+        245 ", "
+        decimal " : "
+        99 " } } } , { "
+        id " : 12070, "
+        code " : "
+        42 LH250C ", "
+        title " : "
+        LG 42 LH250C LCD TV ", "
+        teaser " : "
+        42 LH250C, 106.68 cm(42 ") , LCD, 1920x1080, Hotel-TV, DVB-T & PAL, 5ms, 50.000:1, 500 cd/m2", "trimmed": false, "url": "bsdemo\/shop\/televisions\/lg-42lh250c-lcd-tv", "image": "store/20151203508/assets/items/thumbnails/42LH250C.jpg", "count": "7", "store_featured": "", "cat_featured": "", "new_item": "", "on_sale": "", "select_button": true, "currency_sign": "$", "itemStarRating": "", "labels": {
+                "list_price": "List Price",
+                "no_price": "Free",
+                "you_save": "Save",
+                "save_plus": "Discounted",
+                "points": "Points Awarded",
+                "callprice": "Call for pricing",
+                "quickinfo": "Quick Info"
+            }, "price": {
+                "type": "normal",
+                "list_price": "349.99",
+                "save": {
+                    "percent": "43",
+                    "value": "150.99"
+                },
+                "value": {
+                    "integer": "199",
+                    "decimal": "00"
+                }
+            }
+        }, {
+            "id": 12005,
+            "code": "32LD340H",
+            "title": "LG 32LD340H LCD TV",
+            "teaser": "32LD340H - 1366 x 768, 16:9, 60000:1, 4ms, 178/178, Hi Gloss Black",
+            "trimmed": false,
+            "url": "bsdemo\/shop\/televisions\/lg-32ld340h-lcd-tv",
+            "image": "store/20151203508/assets/items/thumbnails/32LD340H.jpg",
+            "count": "8",
+            "store_featured": "",
+            "cat_featured": "",
+            "new_item": "",
+            "on_sale": "",
+            "select_button": true,
+            "currency_sign": "$",
+            "itemStarRating": "",
+            "labels": {
+                "list_price": "List Price",
+                "no_price": "Free",
+                "you_save": "Save",
+                "save_plus": "Discounted",
+                "points": "Points Awarded",
+                "callprice": "Call for pricing",
+                "quickinfo": "Quick Info"
+            },
+            "price": {
+                "type": "normal",
+                "list_price": "329.99",
+                "save": {
+                    "percent": "12",
+                    "value": "41.09"
+                },
+                "value": {
+                    "integer": "288",
+                    "decimal": "90"
+                }
+            }
+        }, {
+            "id": 12113,
+            "code": "32LK336C",
+            "title": "LG 32LK336C LCD TV",
+            "teaser": "LG 32LK336C, 812.8 mm (32 "), 1366 x 768 pixels, 16: 9, 2 pcs, 20 W, Kensington ", "
+        trimmed " : false, "
+        url " : "
+        bsdemo\ / specials\ / lg - 32 lk336c - lcd - tv ", "
+        image " : "
+        store / 20151203508 / assets / items / thumbnails / 32 LK336C.jpg ", "
+        count " : "
+        9 ", "
+        store_featured " : "
+        " , "
+        cat_featured " : "
+        " , "
+        new_item " : "
+        " , "
+        on_sale " : "
+        " , "
+        select_button " : true, "
+        currency_sign " : "
+        $ ", "
+        itemStarRating " : "
+        " , "
+        labels " : { "
+        list_price " : "
+        List Price ", "
+        no_price " : "
+        Free ", "
+        you_save " : "
+        Save ", "
+        save_plus " : "
+        Discounted ", "
+        points " : "
+        Points Awarded ", "
+        callprice " : "
+        Call
+        for pricing ", "
+        quickinfo " : "
+        Quick Info " }, "
+        price " : { "
+        type " : "
+        normal ", "
+        list_price " : "
+        349.99 " ,"
+        save " : { "
+        percent " : "
+        29 ", "
+        value " : "
+        100.00 " } ,"
+        value " : { "
+        integer " : "
+        249 ", "
+        decimal " : "
+        99 " } } } , { "
+        id " : 12060, "
+        code " : "
+        LT27A300EW ", "
+        title " : "
+        Samsung T27A300 ", "
+        teaser " : "
+        68.58 cm(27 ") LED (1920x1080), 5ms, 300cd/m2, 170/160, 2x 5W, DVB-C/T, USB 2.0", "trimmed": false, "url": "bsdemo\/shop\/televisions\/samsung-t27a300", "image": "store/20151203508/assets/items/thumbnails/LT27A300EW.jpg", "count": "10", "store_featured": "", "cat_featured": "", "new_item": "", "on_sale": "", "select_button": true, "currency_sign": "$", "itemStarRating": "", "labels": {
+                "list_price": "List Price",
+                "no_price": "Free",
+                "you_save": "Save",
+                "save_plus": "Discounted",
+                "points": "Points Awarded",
+                "callprice": "Call for pricing",
+                "quickinfo": "Quick Info"
+            }, "price": {
+                "type": "normal",
+                "list_price": "298.99",
+                "save": {
+                    "percent": "20",
+                    "value": "59.00"
+                },
+                "value": {
+                    "integer": "239",
+                    "decimal": "99"
+                }
+            }
+        }, {
+            "id": 12108,
+            "code": "U270_467NL",
+            "title": "MSI Wind U270-467NL notebook",
+            "teaser": "AMD Dual Core E2-1800 (1.7GHz), 29.464 cm (11.6 ") HD LED Glare(1366 x768), 4 GB DDR3, 320 GB(5400 rpm ", "
+            trimmed " : true, "
+            url " : "
+            bsdemo\ / shop\ / notebooks\ / msi - wind - u270 - 467 nl - notebook ", "
+            image " : "
+            store / 20151203508 / assets / items / thumbnails / U270_467NL.jpg ", "
+            count " : "
+            11 ", "
+            store_featured " : "
+            " , "
+            cat_featured " : "
+            " , "
+            new_item " : "
+            " , "
+            on_sale " : "
+            " , "
+            select_button " : true, "
+            currency_sign " : "
+            $ ", "
+            itemStarRating " : "
+            " , "
+            labels " : { "
+            list_price " : "
+            List Price ", "
+            no_price " : "
+            Free ", "
+            you_save " : "
+            Save ", "
+            save_plus " : "
+            Discounted ", "
+            points " : "
+            Points Awarded ", "
+            callprice " : "
+            Call
+            for pricing ", "
+            quickinfo " : "
+            Quick Info " }, "
+            price " : { "
+            type " : "
+            normal ", "
+            list_price " : "
+            789.99 " ,"
+            save " : { "
+            percent " : "
+            91 ", "
+            value " : "
+            717.99 " } ,"
+            value " : { "
+            integer " : "
+            72 ", "
+            decimal " : "
+            00 " } } } , { "
+            id " : 12063, "
+            code " : "
+            27 T1EH ", "
+            title " : "
+            ASUS 27 T1EH ", "
+            teaser " : "
+            27 T1EH - 27.0 " (68.6cm) 16:9 Wide Screen, 1920x1080, 0.311mm, 300 cd/, HDCP", "trimmed": false, "url": "bsdemo\/specials\/asus-27t1eh", "image": "store/20151203508/assets/items/thumbnails/27T1EH.jpg", "count": "12", "store_featured": "", "cat_featured": "", "new_item": "", "on_sale": "", "select_button": true, "currency_sign": "$", "itemStarRating": "", "labels": {
+                "list_price": "List Price",
+                "no_price": "Free",
+                "you_save": "Save",
+                "save_plus": "Discounted",
+                "points": "Points Awarded",
+                "callprice": "Call for pricing",
+                "quickinfo": "Quick Info"
+            }, "price": {
+                "type": "normal",
+                "list_price": "215.59",
+                "save": {
+                    "percent": "17",
+                    "value": "36.60"
+                },
+                "value": {
+                    "integer": "178",
+                    "decimal": "99"
+                }
+            }
+        }
+    ]
+}]
