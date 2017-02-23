@@ -2,6 +2,7 @@
 <link rel="import" href="shared-styles.html">
 <link rel="import" href="../bower_components/iron-ajax/iron-ajax.html" />
 <link rel="import" href="../bower_components/mercury-paginator/mercury-paginator.html">
+<script src="../bower_components/webcomponentsjs/webcomponents-lite.min.js"></script>
 <dom-module id="get-data">
     <template>
         <style>
@@ -9,67 +10,65 @@
                 display: block;
                 padding: 10px;
             }
-        </style>
-        <!--<iron-ajax
-      auto
-      url="https://jsonplaceholder.typicode.com/users"
-      handle-as="json"
-      last-response="{{data}}">
-    </iron-ajax>-->
-        <template is="dom-bind">
-
+          
             
-            <mercury-paginator perpage="5" items="{{data}}"></mercury-paginator>
-            <!-- Your structure data here -->
-            <div class="div-table">
-                <div class="head-row">
-                    <div class="div-cell">Id</div>
-                    <div class="div-cell">Item name</div>
-                    <div class="div-cell">Email</div>
-                </div>
-                <template id="items" is="dom-repeat" items="{{data}}">
-                    <div class="div-row">
-                        <div class="div-cell">{{item.id}}</div>
-                        <div class="div-cell">{{item.name}}</div>
-                        <div class="div-cell">{{item.email}}</div>
-                    </div>
-                </template>
+        </style>
+        <iron-ajax auto url="https://jsonplaceholder.typicode.com/photos" handle-as="json" on-response="handleResponse" last-response="{{items}}">
+        </iron-ajax>
+        <span id="paging">
+            <mercury-paginator perpage="10" items="{{items}}" show-first show-last></mercury-paginator>
+        </span>
+        <div class="div-table">
+            <div class="head-row">
+                <div class="div-cell">Id</div>
+                <div class="div-cell">Title</div>
+                <div class="div-cell">Body</div>
             </div>
-        </template>
+            <template id="items" is="dom-repeat" items="{{items}}">
+                <div class="div-row">
+                    <div class="div-cell">{{item.id}}</div>
+                    <div class="div-cell">{{item.title}}</div>
+                    <div class="div-cell"><img src="{{item.url}}" alt="{{item.title}}"></div>
+                </div>
+            </template>
+        </div>
     </template>
-    <script src="../bower_components/webcomponentsjs/webcomponents-lite.min.js"></script>
+
     <script>
+        // // Select the paginator to use with this element
+        var m;
+        // // Create a model we will populate with data
+        var model = {
+            items: []
+        }
+
+
+
         Polymer({
             is: 'get-data',
+            ready: function () {
+                m = this.$.paging.childNodes[1];
+            },
 
-            properties: {
-                data: {
-                    type: Object,
-                    notify: true,
-                    value: function(){
-                        _fetchJSONFile('https://jsonplaceholder.typicode.com/users', function (data) {
-                            // do something with the data here 
-                            this.data = data;
-                        })
-                    }
-                        
-                    },
-          
-                    _fetchJSONFile: function (path, callback) {
-                        var httpRequest = new XMLHttpRequest();
-                        httpRequest.onreadystatechange = function () {
-                            if (httpRequest.readyState === 4) {
-                                if (httpRequest.status === 200) {
-                                    var data = JSON.parse(httpRequest.responseText);
-                                    if (callback) callback(data);
-                                }
-                            }
-                        };
-                        httpRequest.open('GET', path);
-                        httpRequest.send();
-                    }
+            handleResponse: function (e) {
+       
+                e.detail.response.map(item => {
+                    model.items.push(item)
+                })
+               
+               m.data = model.items;
+               
+                
+            },
+ 
 
-            }
+
         });
+
+
+
+    
+
+
     </script>
 </dom-module>
